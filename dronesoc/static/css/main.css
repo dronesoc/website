@@ -284,7 +284,7 @@ a {
   .content {
     font-size: 19px;
     line-height: 1.8;
-    margin: 100px auto;
+    margin: 50px auto;
   }
 
   .highlight {
@@ -341,4 +341,19 @@ a {
 
 .bios p {
   margin-top: 5px;
+}
+
+#mc-signup>form {
+    display: inline;
+}
+#mc-signup>form input {
+    font-size: 16px;
+    padding: 8px 14px;
+}
+#mc-signup>form input[type=submit] {
+    background: #5786c1;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
 }
