@@ -1,0 +1,9 @@
+<nav class="nav"> 
+  <a class="nav-logo-text" href="{{ .Site.BaseURL }}" class="nav-logo">DroneSoc</a>
+
+  <ul class="nav-links">
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</nav>
