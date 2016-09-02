@@ -341,6 +341,10 @@ a {
   margin-top: 5px;
 }
 
+#mc-signup {
+    text-align: center;
+}
+
 #mc-signup>form {
     display: inline;
 }
