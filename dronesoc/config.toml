@@ -7,6 +7,7 @@ theme = "hugo-lithium-theme"
     post = "/:year/:month/:day/:title/"
     committee = "/:title/"
     resources = "/:title/"
+    membership = "/:title/"
 
 [[menu.main]]
     name = "Committee"
@@ -17,6 +18,9 @@ theme = "hugo-lithium-theme"
 [[menu.main]]
     name = "Resources"
     url = "/resources/"
+[[menu.main]]
+    name = "Membership"
+    url = "/membership/"
 
 [params]
     description = ""
