@@ -4,4 +4,4 @@ title = "Membership"
 
 +++
 
-To get access to our paid events you'll need to buy a paid membership, this costs £7 for the year.
+To get access to our paid events you'll need to buy a paid membership, this costs £7 for the year. This is to cover the cost of our society owned drones which you will be able to use at events.
