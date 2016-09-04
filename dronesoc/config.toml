@@ -8,13 +8,14 @@ theme = "hugo-lithium-theme"
     committee = "/:title/"
     resources = "/:title/"
     membership = "/:title/"
+    events = "/:title/"
 
 [[menu.main]]
     name = "Committee"
     url = "/committee/"
 [[menu.main]]
     name = "Events"
-    url = ""
+    url = "/events/"
 [[menu.main]]
     name = "Resources"
     url = "/resources/"
