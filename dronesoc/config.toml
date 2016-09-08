@@ -1,4 +1,4 @@
-baseurl = "http://dronesoc.co.uk/"
+baseurl = "https://dronesoc.co.uk/"
 languageCode = "en-gb"
 title = "University of York Drone Society | DroneSoc"
 theme = "hugo-lithium-theme"
