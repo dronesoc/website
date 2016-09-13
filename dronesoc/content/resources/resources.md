@@ -17,6 +17,13 @@ Beginner Guides
 
 * [Quadcopter Beginner Guide by Oscar Liang](https://oscarliang.com/quadcopter-tutorial-how-to-fly-drone/)
 
+Other Drone Societies
+---------------------
+
+* [University of Birmingham Drone Society](http://students.guild.bham.ac.uk/drone/)
+* [Loughborough Students' Union Dronesoc](http://lsuds.misj.co.uk/index.php)
+* [Oxford Research Drones Society](https://oxfordresearchdronessociety.wordpress.com)
+
 UK Drone Parts Retailers
 ------------------------
 
