@@ -2,6 +2,7 @@ baseurl = "https://dronesoc.co.uk/"
 languageCode = "en-gb"
 title = "University of York Drone Society"
 theme = "hugo-lithium-theme"
+pluralizelisttitles = false
 
 [permalinks]
     post = "/:year/:month/:day/:title/"
