@@ -368,3 +368,20 @@ a {
     text-decoration: none;
     cursor: pointer;
 }
+
+#buy-membership {
+    background: #24a92b;
+    border: 0;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px 14px;
+    font-family: -apple-system;
+}
+
+#membership-button-container {
+    text-align: center;
+    margin: 40px 0 0 0;
+}
