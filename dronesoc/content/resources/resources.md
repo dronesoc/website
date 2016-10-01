@@ -32,6 +32,7 @@ UK Drone Parts Retailers
 * [FirstPersonView](https://www.firstpersonview.co.uk)
 * [Quadcopters.co.uk](http://www.quadcopters.co.uk)
 * [MakeItBuildIt](http://makeitbuildit.co.uk)
+* [DroneBit](https://www.dronebit.co.uk/)
 
 Safety & The Law
 ----------------
