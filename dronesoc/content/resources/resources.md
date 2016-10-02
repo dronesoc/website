@@ -17,6 +17,15 @@ Beginner Guides
 
 * [Quadcopter Beginner Guide by Oscar Liang](https://oscarliang.com/quadcopter-tutorial-how-to-fly-drone/)
 
+Simulators
+----------
+
+* [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider)
+* [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged)
+* [Liftoff](http://store.steampowered.com/app/410340/)
+* [Hotprops](http://hotprops-fpv-race.com/home/)
+
+
 Other Drone Societies
 ---------------------
 
