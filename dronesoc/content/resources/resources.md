@@ -29,6 +29,7 @@ YouTube Channels
 * [Flite Test](https://www.youtube.com/user/flitetest)
 * [UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)
 * [Joshua Bardwell](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ)
+* [FPV Academy](https://www.youtube.com/user/xLive2Fly)
 
 Beginner Guides
 ---------------
@@ -38,10 +39,17 @@ Beginner Guides
 Simulators
 ----------
 
-* [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider)
-* [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged)
-* [Liftoff](http://store.steampowered.com/app/410340/)
-* [Hotprops](http://hotprops-fpv-race.com/home/)
+* Free
+    * [Hotprops](http://hotprops-fpv-race.com/home/)
+    * [Drone Racing League (DRL) Simulator](http://thedroneracingleague.com/simulator/)
+    * [Real Drone Simulator](http://www.realdronesimulator.com)
+* Paid
+    * [VelociDrone](https://www.velocidrone.com)
+    * [FPV Event Personal Edition](http://www.dronesimulation.co.uk/pilot.html) (Windows Only)
+    * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider)
+    * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged)
+    * [Liftoff](http://store.steampowered.com/app/410340/)
+
 
 
 Other Drone Societies
@@ -60,6 +68,9 @@ UK Drone Parts Retailers
 * [Quadcopters.co.uk](http://www.quadcopters.co.uk)
 * [MakeItBuildIt](http://makeitbuildit.co.uk)
 * [DroneBit](https://www.dronebit.co.uk/)
+* [Drone Superstore](https://www.dronesuperstore.co.uk)
+* [i-Drone](https://www.dronesuperstore.co.uk)
+* [Drone Junkie](http://www.dronejunkie.co.uk)
 
 Safety & The Law
 ----------------
