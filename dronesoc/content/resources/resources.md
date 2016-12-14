@@ -71,6 +71,7 @@ UK Drone Parts Retailers
 * [Drone Superstore](https://www.dronesuperstore.co.uk)
 * [i-Drone](https://www.dronesuperstore.co.uk)
 * [Drone Junkie](http://www.dronejunkie.co.uk)
+* [Fossils Stuff](https://www.fossilsstuff.com)
 
 Safety & The Law
 ----------------
