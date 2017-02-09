@@ -31,11 +31,6 @@ YouTube Channels
 * [Joshua Bardwell](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ)
 * [FPV Academy](https://www.youtube.com/user/xLive2Fly)
 
-Beginner Guides
----------------
-
-* [Quadcopter Beginner Guide by Oscar Liang](https://oscarliang.com/quadcopter-tutorial-how-to-fly-drone/)
-
 Simulators
 ----------
 
@@ -69,9 +64,11 @@ UK Drone Parts Retailers
 * [MakeItBuildIt](http://makeitbuildit.co.uk)
 * [DroneBit](https://www.dronebit.co.uk/)
 * [Drone Superstore](https://www.dronesuperstore.co.uk)
-* [i-Drone](https://www.dronesuperstore.co.uk)
+* [i-Drone](http://www.i-drone.co.uk)
 * [Drone Junkie](http://www.dronejunkie.co.uk)
 * [Fossils Stuff](https://www.fossilsstuff.com)
+* [Neo FPV](https://shop.neofpv.com)
+* [Unmanned Tech](https://www.unmannedtechshop.co.uk)
 
 Safety & The Law
 ----------------
