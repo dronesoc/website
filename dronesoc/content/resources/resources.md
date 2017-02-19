@@ -69,6 +69,7 @@ UK Drone Parts Retailers
 * [Fossils Stuff](https://www.fossilsstuff.com)
 * [Neo FPV](https://shop.neofpv.com)
 * [Unmanned Tech](https://www.unmannedtechshop.co.uk)
+* [Drone Room](https://droneroom.co.uk/index.php)
 
 Safety & The Law
 ----------------
