@@ -40,7 +40,7 @@ Simulators
     * [Real Drone Simulator](http://www.realdronesimulator.com)
 * Paid
     * [VelociDrone](https://www.velocidrone.com)
-    * [FPV Event Personal Edition](http://www.dronesimulation.co.uk/pilot.html) (Windows Only)
+    * [Rotor Rush](http://rotorrush.com)
     * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider)
     * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged)
     * [Liftoff](http://store.steampowered.com/app/410340/)
@@ -70,6 +70,12 @@ UK Drone Parts Retailers
 * [Neo FPV](https://shop.neofpv.com)
 * [Unmanned Tech](https://www.unmannedtechshop.co.uk)
 * [Drone Room](https://droneroom.co.uk/index.php)
+* [Kooltoyz](https://www.kooltoyz.co.uk)
+* [Fast Lad](http://www.fast-lad.co.uk/store/)
+* [T9 Hobbysport](https://www.t9hobbysport.com)
+* [Electricwingman](https://www.electricwingman.com)
+* [RC Life](http://rclife.co.uk)
+
 
 Safety & The Law
 ----------------
